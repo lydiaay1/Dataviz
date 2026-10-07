@@ -16,3 +16,4 @@ alors que Boulogne-Billancourt en a environ 300 de trop. Enfin, 37 % des vélos 
 plus forte en Seine-Saint-Denis qu'à Paris.
 Comme les données correspondent à un seul moment, le tableau de bord ne montre pas l'évolution dans la journée ou dans la
 semaine.
+![image](velib.png)
